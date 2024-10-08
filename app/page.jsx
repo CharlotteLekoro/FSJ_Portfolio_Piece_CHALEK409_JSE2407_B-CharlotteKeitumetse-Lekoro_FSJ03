@@ -10,7 +10,7 @@ import CategoryFilter from "./components/CategoryFilter";
 import SortOptions from "./components/SortOptions";
 import { MagnifyingGlassIcon } from '@heroicons/react/24/outline';
 import { metadata } from "./metadata";
-import firebaseApp from './firebase';
+import firebaseApp from './lib/firebase';
 
 
 // Fetch products with filters and pagination
