@@ -2,6 +2,7 @@
  * Fetches froducts from server 
  * 
  * @param {*} category 
+ * '[l[']]
  * @returns 
  */
 const getProducts = async (category = 'all' ) => {
