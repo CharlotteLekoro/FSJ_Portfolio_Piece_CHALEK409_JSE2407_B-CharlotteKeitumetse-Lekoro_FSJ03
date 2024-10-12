@@ -1,6 +1,6 @@
 import { notFound } from "next/navigation";
 import Header from "../components/Header";
-import ProductDetails from "../components/ProductDetails";
+import ProductDetails from "../components/ProductList";
 import Link from "next/link";
 import Head from "next/head"; // Import Head component for meta tags
 
